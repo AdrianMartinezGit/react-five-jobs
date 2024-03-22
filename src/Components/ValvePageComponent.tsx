@@ -1,6 +1,6 @@
 import React from 'react'
 
-const JobFivePageComponent = () => {
+const ValvePageComponent = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const JobFivePageComponent = () => {
   )
 }
 
-export default JobFivePageComponent
+export default ValvePageComponent

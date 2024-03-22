@@ -1,6 +1,6 @@
 import React from 'react'
 
-const JobOnePageComponent = () => {
+const DiscordPageComponent = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const JobOnePageComponent = () => {
   )
 }
 
-export default JobOnePageComponent
+export default DiscordPageComponent

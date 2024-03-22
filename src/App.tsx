@@ -2,23 +2,23 @@ import './App.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import HomePageComponent from './Components/HomePageComponent';
 import NavbarComponent from './Components/NavbarComponent';
-import JobOnePageComponent from './Components/JobOnePageComponent';
-import JobTwoPageComponent from './Components/JobTwoPageComponent';
-import JobThreePageComponent from './Components/JobThreePageComponent';
-import JobFourPageComponent from './Components/JobFourPageComponent';
-import JobFivePageComponent from './Components/JobFivePageComponent';
+import NvidiaPageComponent from './Components/NvidiaPageComponent';
+import AMDPageComponent from './Components/AMDPageComponent';
+import DiscordPageComponent from './Components/DiscordPageComponent';
+import ValvePageComponent from './Components/ValvePageComponent';
+import VulkanPageComponent from './Components/VulkanPageComponent';
 
 function App() {
   return (
     <BrowserRouter>
-      <NavbarComponent/>
+      <NavbarComponent />
       <Routes>
-        <Route path='/' element={<HomePageComponent/>}/>
-        <Route path='/jobone' element={<JobOnePageComponent/>}/>
-        <Route path='/jobtwo' element={<JobTwoPageComponent/>}/>
-        <Route path='/jobthree' element={<JobThreePageComponent/>}/>
-        <Route path='/jobfour' element={<JobFourPageComponent/>}/>
-        <Route path='/jobfive' element={<JobFivePageComponent/>}/>
+        <Route path='/' element={<HomePageComponent />} />
+        <Route path='/Nvidia' element={<NvidiaPageComponent />} />
+        <Route path='/AMD' element={<AMDPageComponent />} />
+        <Route path='/Discord' element={<DiscordPageComponent />} />
+        <Route path='/Valve' element={<ValvePageComponent />} />
+        <Route path='/Vulkan' element={<VulkanPageComponent />} />
       </Routes>
     </BrowserRouter>
   );

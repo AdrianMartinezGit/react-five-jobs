@@ -1,6 +1,6 @@
 import React from 'react'
 
-const JobTwoPageComponent = () => {
+const VulkanPageComponent = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const JobTwoPageComponent = () => {
   )
 }
 
-export default JobTwoPageComponent
+export default VulkanPageComponent

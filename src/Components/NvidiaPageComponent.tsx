@@ -1,6 +1,6 @@
 import React from 'react'
 
-const JobFourPageComponent = () => {
+const NvidiaPageComponent = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const JobFourPageComponent = () => {
   )
 }
 
-export default JobFourPageComponent
+export default NvidiaPageComponent
