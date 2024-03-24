@@ -1,5 +1,10 @@
-.App {
-  text-align: center;
+@font-face 
+{
+    font-family: Inter;
+    src: url('./Assets/Fonts/Inter/Inter-VariableFont_slnt\,wght.ttf')
+}
+* {
+    font-family: Inter;
 }
 
 .App-logo {
@@ -7,10 +12,43 @@
   pointer-events: none;
 }
 
+ul {
+  list-style: none;
+  padding: 0px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+.text-shadow-tiny {
+  text-shadow: 1px 1px black;
+}
+
+.text-shadow-sm {
+  text-shadow: 3px 3px black;
+}
+
+.text-shadow-md {
+  text-shadow: 6px 6px black;
+}
+
+.text-shadow-lg {
+  text-shadow: 9px 9px black;
+}
+
+.Bg-Pattern {
+  background: linear-gradient(#ffffff, #93b0ff);
+  width: 100%;
+  height: 240px;
+  position: fixed;
+  z-index: -1;
+}
+
+body {
+  background-color: #93b0ff;
 }
 
 .App-header {
@@ -32,6 +70,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }

@@ -1,5 +1,7 @@
 import './App.css';
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
+
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+
 import HomePageComponent from './Components/HomePageComponent';
 import NavbarComponent from './Components/NavbarComponent';
 import NvidiaPageComponent from './Components/NvidiaPageComponent';
