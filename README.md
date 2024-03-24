@@ -1,5 +1,4 @@
-# 
-Jobs that Interest you
+# Jobs that Interest you
 
 Adrian Martinez
 
