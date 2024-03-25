@@ -13,7 +13,7 @@ const AMDPageComponent = () => {
   return (
     <div>
       <div className='Bg-Pattern'></div>
-      <JobDisplayComponent image={AMDImage} entry={JobEntry} index={3} url='' />
+      <JobDisplayComponent image={AMDImage} entry={JobEntry} index={3} url='https://www.linkedin.com/jobs/view/software-development-engineer-2-at-amd-3860863829?refId=%2BdnniFfiGsw09hUx51zBMw%3D%3D&trackingId=7Arn8xMWMGyfgPav5n11gg%3D%3D&trk=public_jobs_topcard-title' />
     </div>
   )
 }
