@@ -41,12 +41,11 @@
                         "Learn new skills"
                 ],
                 "JobSkillset": "I do not have the current skill sets that they would like to have as an employ there. I would need to learn multiple languages and expand my knowledge about SQL. Also, learning how to batch data pipelines using Kafka and related technologies.",
-                "JobDescription": "At NVIDIA, we build groundbreaking products for the following sectors: Automotive, VR, Gaming, Deep Learning, and High Performance Computing. See your efforts in action as developers use your tools to debug, profile and analyze the performance of their systems/applications using the low-level library that you helped to craft as a member of the GPU Foundations Developer Tools team! Innovate as you develop the performance analysis capabilities of NVIDIA hardware along with the NSight Perf SDK to support current and future generations of GPUs.",
+                "JobDescription": "At Valve, we are pushing the boundaries of hardware gaming experiences. Exemplified on products like the Steam Deck and the Valve Index, engineers at Valve innovate on technologies that bridge the hazy divide between software and hardware solutions. Our engineers are versatile, self-directed, and empowered to bring the next generation of VR and hand-held gaming products to millions of customers world-wide.",
                 "JobRequirement": [
-                        "B.S. EE/CS or equivalent experience with 4+ years of experience or MS with 2+ years' experience, or Ph.D.",
-                        "Strong programming ability in C, C++, and scripting languages.",
-                        "Solid understanding of hardware pipeline concepts, with a willingness to work at a detailed implementation level.",
-                        "Demonstrated working knowledge of computer graphics (DirectX, OpenGL, Vulkan) and/or compute (CUDA)."
+                        "Knowledge of Software Development using C/C++",
+                        "Have strong software engineering skills"
+
                 ]
         },
         {
@@ -66,12 +65,15 @@
                         "Learn new skills"
                 ],
                 "JobSkillset": "I do not have the current skill sets that they would like to have as an employ there. I would need to learn multiple languages and expand my knowledge about SQL. Also, learning how to batch data pipelines using Kafka and related technologies.",
-                "JobDescription": "At NVIDIA, we build groundbreaking products for the following sectors: Automotive, VR, Gaming, Deep Learning, and High Performance Computing. See your efforts in action as developers use your tools to debug, profile and analyze the performance of their systems/applications using the low-level library that you helped to craft as a member of the GPU Foundations Developer Tools team! Innovate as you develop the performance analysis capabilities of NVIDIA hardware along with the NSight Perf SDK to support current and future generations of GPUs.",
+                "JobDescription": "Discord is about giving people the power to create space to find belonging in their lives. We want to make it easier for you to talk regularly with the people you care about. We want you to build genuine relationships with your friends and communities close to home or around the world. Original, reliable, playful, and relatable. These are the values that connect our users and our employees at Discord.",
                 "JobRequirement": [
-                        "B.S. EE/CS or equivalent experience with 4+ years of experience or MS with 2+ years' experience, or Ph.D.",
-                        "Strong programming ability in C, C++, and scripting languages.",
-                        "Solid understanding of hardware pipeline concepts, with a willingness to work at a detailed implementation level.",
-                        "Demonstrated working knowledge of computer graphics (DirectX, OpenGL, Vulkan) and/or compute (CUDA)."
+                        "5+ years experience as a full-stack engineer with familiarity working in web and backend stacks.",
+                        "Experience with designing and maintaining APIs.",
+                        "A focus on impact. Developers building on Discord are a vibrant and productive community, but we have a long way to go! You want to work with engineers, product managers, designers, and the external dev community to define great solutions to ambiguous problems.",
+                        "Attention to detail and an eye for visuals. You care about shipping high quality experiences for our developers and users.",
+                        "A growth mindset. You view mistakes as learning opportunities and build upon your successes. You challenge yourself and those around you to improve.",
+                        "A strong sense of shared ownership. You don’t believe that anything is someone else’s problem and are willing to explore unfamiliar parts of the tech stack to understand how it works and develop new expertise",
+                        "Familiarity with React, React Native, TypeScript, Python, or Rust"
                 ]
         },
         {
@@ -91,12 +93,15 @@
                         "Learn new skills"
                 ],
                 "JobSkillset": "I do not have the current skill sets that they would like to have as an employ there. I would need to learn multiple languages and expand my knowledge about SQL. Also, learning how to batch data pipelines using Kafka and related technologies.",
-                "JobDescription": "At NVIDIA, we build groundbreaking products for the following sectors: Automotive, VR, Gaming, Deep Learning, and High Performance Computing. See your efforts in action as developers use your tools to debug, profile and analyze the performance of their systems/applications using the low-level library that you helped to craft as a member of the GPU Foundations Developer Tools team! Innovate as you develop the performance analysis capabilities of NVIDIA hardware along with the NSight Perf SDK to support current and future generations of GPUs.",
+                "JobDescription": "We care deeply about transforming lives with AMD technology to enrich our industry, our communities, and the world. Our mission is to build great products that accelerate next-generation computing experiences – the building blocks for the data center, artificial intelligence, PCs, gaming and embedded. Underpinning our mission is the AMD culture. We push the limits of innovation to solve the world’s most important challenges. We strive for execution excellence while being direct, humble, collaborative, and inclusive of diverse perspectives.",
                 "JobRequirement": [
-                        "B.S. EE/CS or equivalent experience with 4+ years of experience or MS with 2+ years' experience, or Ph.D.",
-                        "Strong programming ability in C, C++, and scripting languages.",
-                        "Solid understanding of hardware pipeline concepts, with a willingness to work at a detailed implementation level.",
-                        "Demonstrated working knowledge of computer graphics (DirectX, OpenGL, Vulkan) and/or compute (CUDA)."
+                        "Expert knowledge and hands-on experience in C, C++",
+                        "Solid understanding of object-oriented-design principles",
+                        "Solid understanding of Software Engineering principles, Data structure, algorithms, Operating Systems concepts and multithreading programming",
+                        "Excellent design and code development skills, familiarity with Linux and modern software tools and techniques for development",
+                        "Good analytical and problem-solving skills",
+                        "Experience or course work on compiler and LLVM"
+                        
                 ]
         },
         {
@@ -116,12 +121,21 @@
                         "Learn new skills"
                 ],
                 "JobSkillset": "I do not have the current skill sets that they would like to have as an employ there. I would need to learn multiple languages and expand my knowledge about SQL. Also, learning how to batch data pipelines using Kafka and related technologies.",
-                "JobDescription": "At NVIDIA, we build groundbreaking products for the following sectors: Automotive, VR, Gaming, Deep Learning, and High Performance Computing. See your efforts in action as developers use your tools to debug, profile and analyze the performance of their systems/applications using the low-level library that you helped to craft as a member of the GPU Foundations Developer Tools team! Innovate as you develop the performance analysis capabilities of NVIDIA hardware along with the NSight Perf SDK to support current and future generations of GPUs.",
+                "JobDescription": "We are looking for our next team member to join our computer vision team in the Machine Learning Software Engineering group to enable and perform CPU and GPU code relating to computer vision. You will work independently and with other AMD engineers to tackle technical CPU and GPU performance issues and build test cases for verifying correctness and measuring performance.",
                 "JobRequirement": [
-                        "B.S. EE/CS or equivalent experience with 4+ years of experience or MS with 2+ years' experience, or Ph.D.",
-                        "Strong programming ability in C, C++, and scripting languages.",
-                        "Solid understanding of hardware pipeline concepts, with a willingness to work at a detailed implementation level.",
-                        "Demonstrated working knowledge of computer graphics (DirectX, OpenGL, Vulkan) and/or compute (CUDA)."
+                        "Bachelor’s degree in a technical field (Computer Science, Electrical Engineering, Physics, Mathematics)",
+                        "Experience with computer vision and performance optimization",
+                        "Coding expertise in SIMD for CPU and GPU (C/C++, Python, OpenCL, HIP or Cuda)",
+                        "Performance profiling, monitoring tools, and software performance optimization",
+                        "Linux administration; understanding setup for ML middleware",
+                        "Familiar with computer vision algorithms and neural nets, such as Resnet, VGG, Yolo",
+                        "Experience with MLPerf or other ML benchmarks",
+                        "Experience working on very large NN models for computer vision",
+                        "Any experience understanding/inspecting/writing x86 assembly",
+                        "MPI and/or OMP coding experience",
+                        "Understanding of memory and cache hierarchy and methods to query performance/latency at each level",
+                        "Hands-on debugging skills with system-level debugger, as well as GPU debugging"
+                        
                 ]
         }
 ]
