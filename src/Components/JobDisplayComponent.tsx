@@ -1,8 +1,6 @@
 import React from 'react'
 
 import { IJobDisplayProps } from '../Interfaces/Interface'
-import { useNavigate } from 'react-router-dom'
-
 
 const JobDisplayComponent = (props: IJobDisplayProps) => {
 
@@ -24,7 +22,12 @@ const JobDisplayComponent = (props: IJobDisplayProps) => {
                         ))}
                     </ul>
                     <h1 className='text-3xl font-semibold my-5 text-white text-shadow-sm'>What goals would I like to achieve?</h1>
-                    <h2 className='text-1xl font-light text-white text-shadow-tiny'>Goals I would like to achieve are: </h2>
+                    <h2 className='text-1xl font-light text-white text-shadow-tiny'>Goals I would like to achieve are:</h2>
+                    <ul>
+                        {props.entry[props.index].GoalsToAchieve.map(stack => (
+                            <li className='text-white text-shadow-tiny'>- {stack}</li>
+                        ))}
+                    </ul>
                     <h1 className='text-3xl font-semibold my-5 text-white text-shadow-sm'>Do I have the current skill sets?</h1>
                     <p className='text-white text-shadow-tiny'>{props.entry[props.index].JobSkillset}</p>
                 </div>
@@ -34,6 +37,11 @@ const JobDisplayComponent = (props: IJobDisplayProps) => {
                         <p className='text-white text-shadow-tiny'>{props.entry[props.index].JobDescription}</p>
                         <h1 className='text-3xl font-semibold my-5 text-white text-shadow-sm'>Job Requirements</h1>
                         <p className='text-white text-shadow-tiny'>What they need to see:</p>
+                        <ul>
+                        {props.entry[props.index].JobRequirement.map(stack => (
+                            <li className='text-white text-shadow-tiny'>- {stack}</li>
+                        ))}
+                    </ul>
                     </div>
                 </div>
             </div>

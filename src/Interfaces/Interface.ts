@@ -17,8 +17,8 @@ export interface IJobDisplayProps {
 export interface IJobEntries {
     WorkReason: string,
     JobStackRequire: string[],
-    GoalsToAchieve: string,
+    GoalsToAchieve: string[],
     JobSkillset: string,
     JobDescription: string,
-    JobRequirement: string,
+    JobRequirement: string[],
 }
